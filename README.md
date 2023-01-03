@@ -1,2 +1,2 @@
 # dq_scan
-A repository for scaner experiment
+A repository for scanner experiment
